@@ -66,7 +66,7 @@ app/
 ## Screens
 | Home Feed | Story Detail | Bookmarks |
 |---|---|---|
-| ![Home](home-scrteemn.png) | ![Detail](detail-screenm.png) | ![Bookmarks](bookmarks-screen.png) |
+| ![Home](home-screen.png) | ![Detail](detail-screen.png) | ![Bookmarks](bookmarks-screen.png) |
 
 **Home screen**
 - Featured matches in a horizontal `RecyclerView` at the top
