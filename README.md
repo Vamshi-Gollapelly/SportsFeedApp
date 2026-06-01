@@ -10,7 +10,7 @@ An Android news feed application for sports content, featuring a multi-screen la
 
 | Home Feed | Story Detail | Bookmarks |
 |---|---|---|
-| *(screenshot)* | *(screenshot)* | *(screenshot)* |
+| ![Home](home-screen.png) | ![Detail](detail-screen.png) | ![Bookmarks](bookmarks-screen.png) |
 
 ---
 
@@ -64,9 +64,6 @@ app/
 ---
 
 ## Screens
-| Home Feed | Story Detail | Bookmarks |
-|---|---|---|
-| ![Home](home-screen.png) | ![Detail](detail-screen.png) | ![Bookmarks](bookmarks-screen.png) |
 
 **Home screen**
 - Featured matches in a horizontal `RecyclerView` at the top
