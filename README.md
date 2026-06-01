@@ -6,7 +6,6 @@ An Android news feed application for sports content, featuring a multi-screen la
 
 ## Screenshots
 
-> Add screenshots here after running the app on an emulator
 
 | Home Feed | Story Detail | Bookmarks |
 |---|---|---|
